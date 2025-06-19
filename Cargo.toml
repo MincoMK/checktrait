@@ -3,5 +3,16 @@ name = "checktrait"
 version = "0.1.0"
 edition = "2024"
 
+authors = ["Allen Han <mail@drchi.co.kr>"]
+description = "Simple tool for trait implementation check"
+license = "MIT"
+repository = "https://github.com/mincomk/checktrait"
+documentation = "https://docs.rs/checktrait"
+readme = "README.md"
+keywords = ["tool", "macro", "utility"]
+license-file = "LICENSE"
+include = ["src/**", "Cargo.toml", "README.md", "LICENSE"]
+exclude = ["tests/*", "target/*"]
+
 [dependencies]
 paste = "1.0.15"
