@@ -1,11 +1,10 @@
 [package]
 name = "checktrait"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 
 authors = ["Allen Han <mail@drchi.co.kr>"]
 description = "Simple tool for trait implementation check"
-license = "MIT"
 repository = "https://github.com/mincomk/checktrait"
 documentation = "https://docs.rs/checktrait"
 readme = "README.md"
