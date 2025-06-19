@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=checktrait)
+[![Rust Test, Doc and Publish](https://github.com/MincoMK/checktrait/actions/workflows/rust-publish.yml/badge.svg)](https://github.com/MincoMK/checktrait/actions/workflows/rust-publish.yml)
 
 Simple tool for compile-time check trait
 
