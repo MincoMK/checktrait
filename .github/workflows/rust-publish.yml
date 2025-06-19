@@ -1,4 +1,4 @@
-name: Rust Test, Doc and Publish
+name: build
 
 on:
   workflow_dispatch:
