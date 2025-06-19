@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=checktrait)
 [![build](https://github.com/MincoMK/checktrait/actions/workflows/rust-publish.yml/badge.svg)](https://github.com/MincoMK/checktrait/actions/workflows/rust-publish.yml) [![crates.io](https://img.shields.io/crates/v/checktrait.svg)](https://crates.io/crates/checktrait)
+
 Simple tool for compile-time check trait
 
 ## Installation
